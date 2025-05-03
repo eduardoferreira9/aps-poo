@@ -1,12 +1,12 @@
 # Projeto Academia Java
 
 Este projeto Java gerencia cadastros e consultas de uma academia, com as seguintes entidades:
-- Aluno
-- Professor
-- Exercício
-- Treino
-- Academia (gerenciador dos dados)
-- Classe principal para testes (Main)
+- Aluno - `Aluno.java`
+- Professor - `Professor.java`
+- Exercício - `Exercicio.java`
+- Treino - `Treino.java`
+- Academia (gerenciador dos dados) `Academia.java`
+- Classe principal para testes (Main) `AcademiaSystem.java`
 
 ## Estrutura do projeto
 
