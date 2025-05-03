@@ -86,8 +86,7 @@ public class AcademiaSystem {
     private static void cadastrarExercicio() {
         System.out.println("Cadastro de Exercício");
         String nome = lerTexto("Digite o nome do exercício: ");
-        String descricao = lerTexto("Digite a descrição do exercício: ");
-        academia.cadastrarExercicio(nome, descricao);
+        academia.cadastrarExercicio(nome);
     }
 
     private static void criarTreino() {

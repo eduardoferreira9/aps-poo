@@ -28,8 +28,8 @@ public class Academia {
         System.out.println("Professor cadastrado: " + prof);
     }
 
-    public void cadastrarExercicio(String nome, String descricao) {
-        Exercicio ex = new Exercicio(nome, descricao);
+    public void cadastrarExercicio(String nome) {
+        Exercicio ex = new Exercicio(nome);
         exercicios.add(ex);
         System.out.println("Exercício cadastrado: " + ex);
     }
