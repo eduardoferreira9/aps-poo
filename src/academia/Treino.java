@@ -39,7 +39,7 @@ public class Treino {
 
     @Override
     public String toString() {
-        return "Treino: aluno= " + aluno.getNome() + " professor= " + professor.getNome() +
-               " exercicios= " + exercicios;
+        return "Treino: aluno: " + aluno.getNome() + " professor: " + professor.getNome() +
+               " exercicios: " + exercicios;
     }
 }

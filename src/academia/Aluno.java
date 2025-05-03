@@ -48,7 +48,7 @@ public class Aluno {
 
     public String toString() {
 
-        return "Aluno: nome= " + nome + " idade=" + idade;
+        return "Aluno: nome: " + nome + " idade: " + idade;
 
     }
 
