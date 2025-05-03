@@ -13,6 +13,6 @@ public class Exercicio {
 
     @Override
     public String toString() {
-        return "Exercicio: nome: " + nome;
+        return nome;
     }
 }
