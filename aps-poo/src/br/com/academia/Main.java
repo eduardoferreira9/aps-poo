@@ -62,3 +62,7 @@ public class Main {
         sc.close();
     }
 }
+
+
+// Ainda precisa de manutenção para chamar a classe de cadastro de treinos
+// Não consegue encontrar o aluno cadastrado
